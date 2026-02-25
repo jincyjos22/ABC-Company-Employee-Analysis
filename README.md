@@ -101,12 +101,3 @@ Analyzed correlation between age and salary.
 This project demonstrates basic exploratory data analysis (EDA) techniques using Python.
 It provides meaningful insights into workforce structure and financial distribution within ABC Company using clear graphical representations.
 
-If you want, I can also:
-
-✨ Add badges (Python version, license, etc.)
-
-📷 Add screenshot section for graphs
-
-🚀 Make it look more advanced (for better GitHub impression)
-
-Tools
